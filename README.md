@@ -95,4 +95,4 @@ reboot
 ```
 
 ##插入图片
-![测试](D://桌面文件//xx.png)
+![xx.png](https://s2.loli.net/2022/08/14/9JTrY2v5DGHjiRd.png)
