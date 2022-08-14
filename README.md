@@ -1,9 +1,9 @@
-#一级标题
-##二级标题
-###三级标题
-####四级标题
-#####五级标题
-######六级标题
+#一级标题 <br>
+##二级标题 <br>
+###三级标题 <br>
+####四级标题 <br>
+#####五级标题 <br>
+######六级标题 <br>
 
 ##字体修饰
 
@@ -66,8 +66,8 @@ LOL|88$|Top1
 Pubg|78$|Top2
 
 ##超链接
-[Bilibili弹幕网](https://www.bilibili.com"点击进入B站") <br>
-[百度搜索](https://www.baidu.com"点击进入百度") <br>
+[Bilibili弹幕网](https://www.bilibili.com "点击进入B站") 
+[百度搜索](https://www.baidu.com "点击进入百度") 
 
 ##插入代码片段
 ```c
